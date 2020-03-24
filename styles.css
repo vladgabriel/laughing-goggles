@@ -1,0 +1,18 @@
+
+
+/* .primary-h {
+  color: yellow;
+} */
+
+p {
+  color: inherit;
+}
+body {
+  background-color: aquamarine;
+  color: red;
+}
+
+
+p, h1.primary-h {
+  color: green;
+}
